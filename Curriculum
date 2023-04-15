@@ -1,0 +1,20 @@
+linux admin  >pro
+shell scripting >pro
+source code management 
+	git
+	bitbucket
+	gitlab/github
+	jenkins >CICD
+configuration managemnet
+	ansible
+containalalization 
+	docker
+container archestration
+	kubernetis 
+monitoring 
+	elk stack (elastic search log/stash kibana)
+	premetiuse nagious
+AWS/Azure/GCP
+Code Quality
+	sonnarCube
+	Jfrog
